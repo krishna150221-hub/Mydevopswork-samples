@@ -1,0 +1,8 @@
+helmfiles:
+
+- path: releases/linux/middleware.yaml    
+
+- path: releases/linux/UI-webapp.yaml   
+
+- path: releases/windows/microservice-windows.yaml
+
